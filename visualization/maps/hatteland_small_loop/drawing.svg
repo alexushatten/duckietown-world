@@ -14,7 +14,7 @@
          
     ]]>    </style>
   </defs>
-  <g id="base" transform="translate(0.0, 419.9174503923849) scale(376.20946197668894) scale(+1,-1)">
+  <g id="base" transform="translate(0.0, 419.5399587075802) scale(375.87126230551934) scale(+1,-1)">
     <g id="grid">
       <rect fill="none" height="1" stroke="#eeeeee" stroke-width="0.01" width="1" x="0" y="0"/>
       <rect fill="none" height="1" stroke="#eeeeee" stroke-width="0.01" width="1" x="0" y="1"/>
@@ -347,10 +347,28 @@
               </g>
             </g>
           </g>
+          <g class="FloorTag" id="tag342" transform="matrix(-1.0,1.2246469e-16,-1.2246469e-16,-1.0,0.647,0.582)">
+            <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAt0lEQVR4nO2aUQrDMAzFltH7Xzk7gP1h0nbigfRZUqgICBu69t6fZL70B9xFARoFaK76aK31/+8YUpsZfwMK0ChAEy/QZHTIs1Pgcbvjb0ABGgVophUaNqfGpL7YBmd4rBJ/AwrQKEATL3A+zLUcT3gOc7EoQBMvcF6hYTdql9pSWaFYFKCJF5hWaLIrtseGZ1wpY1GARgEaV0oaBWgUoHl9pXyb+BtQgEYBmniB5Z+7MArQKEDzA9QpJ5JoXGdsAAAAAElFTkSuQmCC" y="-0.04"/>
+          </g>
+          <g class="FloorTag" id="tag343" transform="matrix(-0.70710677,0.70710677,-0.70710677,-0.70710677,0.142,0.147)">
+            <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAu0lEQVR4nO2aQQrEIBAEY9j/f9k9Bz0M7mSLhqpjQLEYaFrimHNeydz0AX5FARoFaD7rpzHG/89RZM3M+AkoQKMATbzAJka3FDvfGsHrwt6Yjp+AAjQK0FRTqDE6toF2vH/8BBSgUYAmXuC8zG2Dr9L5LHMPFKBRgOa8zPV2suObZ/wEFKBRgKaaQo14pXygAI0CNPECzVfKysJe4iegAI0CNK//H3j76Uj8BBSgUYAmXmD4chdGARoFaL7SJCeS5EHFCgAAAABJRU5ErkJggg==" y="-0.04"/>
+          </g>
+          <g class="FloorTag" id="tag344" transform="matrix(0.70710677,0.70710677,-0.70710677,0.70710677,0.157,1.007)">
+            <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAuElEQVR4nO2aQQoEIQwEN8v8/8vuA/Qg2TBFQ9VxQLEINI1OrbU+yXzpA/yLAjQK0Dz7p6p6/xyX7JkZPwEFaBSgiRc4xOiRy863R/C+cDam4yegAI0CNLcpNBgdx0Br7x8/AQVoFKCJF+iXuXbwHRe294+fgAI0CtDcptDO7MOCZS4WBWjiBfopNFtp7EKxKECjAE3/Zm72gs0yF4sCNPECw2XufeInoACNAjTxAuWfuzAK0ChA8wOcfCSbZxvLIwAAAABJRU5ErkJggg==" y="-0.04"/>
+          </g>
+          <g class="FloorTag" id="tag345" transform="matrix(-0.70710677,-0.70710677,0.70710677,-0.70710677,1.612,0.157)">
+            <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAuElEQVR4nO2aWwqFMBDFHLn733JdQO/HMD7CgeRTFBoGQqvWWutI5qQXcBcFaBSg+e2Xqur7dTTZmxk/AQVoFKCJF/iT0TvsmWtGefxg/AQUoFGApluh8cmzmZfxDjJ+AgrQKEATL9DN6HhP1rzHjMaiAE28wPxI+WxMxsRPQAEaBWhef7HVxL1QLArQKEDzcEb3GjbD6veBWBSgiReYV6hZibcPmfETUIBGAZp4gfLPXRgFaBSguQCONCePpvAeEAAAAABJRU5ErkJggg==" y="-0.04"/>
+          </g>
+          <g class="FloorTag" id="tag346" transform="matrix(-1.0,1.2246469e-16,-1.2246469e-16,-1.0,1.102,0.582)">
+            <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAwElEQVR4nO2aQQqEMBAEnWX//+XsA5LDEKNFL1VHEUnR0MyoNca4kvnQB7iLAjQK0HznS1X1/jmazJ0Zn4ACNArQxAssanTJ3F/Ltj04GjbbPD4BBWgUoOm2ULMT5tuavbQ9QcYnoACNAjTxAt0afZrmsDgTn4ACNArQACvl2V00PgEFaBSgOTwLdVbKZeG4UsaiAI0CNPs12mzD7Xd1TeITUIBGAZrD3wdeftT1BwkoQKMATbxA+ecujAI0CtD8AACCKpJO1f5qAAAAAElFTkSuQmCC" y="-0.04"/>
+          </g>
+          <g class="FloorTag" id="tag347" transform="matrix(0.70710677,-0.70710677,0.70710677,0.70710677,1.632,1.012)">
+            <image class="tile-textures" height="0.08" style="transform: rotate(90deg) scaleX(-1)  rotate(-90deg) " width="0.08" x="-0.04" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAyklEQVR4nO2aQQrEMAwD62X//+X0AfZBpOkOWjTHQkMGgbBLa611OfOhL/CUCNBEgObbH1XV7+8h0jvTPoEI0ESAxl5gqNERceZTKvjgUdcfJBABmgjQqC10cMIbj9rebO0TiABNBGjsBdQaFelt2Evz7LdA+wQiQBMBmv0WEstE6SX9tI59AhGgiQDNfguJS2avl7FwtldW+wQiQBMBGnuB14c5caUUZ76OfQIRoIkAzevD3MEXR+wTiABNBGjsBSp/7sJEgCYCNDcvwTCGdqRWawAAAABJRU5ErkJggg==" y="-0.04"/>
+          </g>
         </g>
         <g class="keyframe keyframe0"/>
       </g>
-      <rect fill="none" height="1.116179928559065" id="view" stroke="black" stroke-width="0.01" width="1.7011799667060377" x="0.0" y="0.0"/>
+      <rect fill="none" height="1.116179928559065" id="view" stroke="black" stroke-width="0.01" width="1.702710646390915" x="0.0" y="0.0"/>
     </g>
   </g>
 </svg>

@@ -4,6 +4,30 @@
     },
     "~PlacedObject": {
         "children": {
+            "tag342": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag343": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag344": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag345": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag346": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
+            "tag347": {
+                "~FloorTag": {},
+                "~PlacedObject": {}
+            },
             "tilemap": {
                 "~TileMap": {
                     "H": 3,
@@ -875,6 +899,108 @@
         },
         "spatial_relations": {
             "0": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag342"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 180,
+                            "p": [
+                                0.647,
+                                0.582
+                            ]
+                        }
+                    }
+                }
+            },
+            "1": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag343"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta": 2.356194490192345,
+                            "p": [
+                                0.14200000000000002,
+                                0.14700000000000002
+                            ]
+                        }
+                    }
+                }
+            },
+            "2": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag344"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 45,
+                            "p": [
+                                0.157,
+                                1.007
+                            ]
+                        }
+                    }
+                }
+            },
+            "3": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag345"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta": 3.9269908169872414,
+                            "p": [
+                                1.6119999999999999,
+                                0.157
+                            ]
+                        }
+                    }
+                }
+            },
+            "4": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag346"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta_deg": 180,
+                            "p": [
+                                1.1019999999999999,
+                                0.582
+                            ]
+                        }
+                    }
+                }
+            },
+            "5": {
+                "~GroundTruth": {},
+                "~SpatialRelation": {
+                    "b": [
+                        "tag347"
+                    ],
+                    "transform": {
+                        "~SE2Transform": {
+                            "theta": 5.497787143782138,
+                            "p": [
+                                1.632,
+                                1.012
+                            ]
+                        }
+                    }
+                }
+            },
+            "6": {
                 "~GroundTruth": {},
                 "~SpatialRelation": {
                     "b": [
